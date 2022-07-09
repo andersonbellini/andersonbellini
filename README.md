@@ -62,7 +62,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Site-%23333?style=for-the-badge&logo=Site&logoColor=white" target="_blank">
  </a>
  
- <a href="https://api.whatsapp.com/send?phone=+5516981904028&text=Ol%C3%A1" target="_blank">
+ <a href="https://api.whatsapp.com/send?phone=+5516981904028&text=Ol%C3%A1Eu%20vim%20pelo%20github" target="_blank">
  <img src="https://img.shields.io/badge/-whatsapp-%C3333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
  </a> 
   </div>
