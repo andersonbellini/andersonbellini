@@ -1,4 +1,4 @@
-## Hi there ! My name is Anderson V. Bellini 👋
+## Hi ! My name is Anderson V. Bellini 👋
 
 <!--
 **andersonbellini/andersonbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
